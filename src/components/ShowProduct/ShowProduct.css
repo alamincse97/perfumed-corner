@@ -1,0 +1,13 @@
+.show-cart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.show-cart img {
+  border-radius: 10%;
+  width: 35px;
+}
+.show-cart p {
+  margin-left: 10px;
+  margin-right: 5px;
+}
