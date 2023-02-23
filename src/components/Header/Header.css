@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+}
+.header-title {
+  color: #0369a1;
+  margin-bottom: 10px;
+}
+.header-content {
+  color: #818cf8;
+  margin-top: 0;
+}
