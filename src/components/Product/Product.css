@@ -1,0 +1,45 @@
+.product {
+  width: 270px;
+  height: 410px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  position: relative;
+}
+.product img {
+  width: 256px;
+  height: 190.66px;
+  border-radius: 5px;
+  margin: 7px;
+}
+.product-info {
+  margin: 0 14px;
+}
+.product-name {
+  font-family: "montserrat";
+  color: #0d9488;
+}
+.product-info p {
+  margin-bottom: 0;
+  margin-top: 5px;
+  color: #64748b;
+}
+.btn-cart {
+  color: #365314;
+  font-weight: bold;
+  width: 45%;
+  background: #c7d2fe;
+  border: none;
+  border-radius: 8px;
+  position: absolute;
+  bottom: 7px;
+  right: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-cart:hover {
+  background-color: #ddd6fe;
+}
+.btn-cart .btn-text {
+  margin-right: 5px;
+}
