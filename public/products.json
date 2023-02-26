@@ -1,0 +1,134 @@
+[
+  {
+    "id": "001",
+    "category": "Perfumed",
+    "name": "ALINA RUBO",
+    "price": 720,
+    "ratings": 4,
+    "ratingsCount": 9725,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364688/lucky-one/alina-rubo_ghj1tt.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "002",
+    "category": "Perfumed",
+    "name": "ASH EDMONDS",
+    "price": 796,
+    "ratings": 5,
+    "ratingsCount": 9355,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364689/lucky-one/ash-edmonds_umdqie.jpg",
+    "shipping": 14,
+    "quantity": 0
+  },
+  {
+    "id": "003",
+    "category": "Perfumed",
+    "name": "CAMILLE PARALISAN",
+    "price": 745,
+    "ratings": 4,
+    "ratingsCount": 9972,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/camille-paralisan_q9ekpr.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "004",
+    "category": "Perfumed",
+    "name": "JEROEN DEN",
+    "price": 729,
+    "ratings": 5,
+    "ratingsCount": 9764,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/jeroen-den_lfco1u.jpg",
+    "shipping": 32,
+    "quantity": 0
+  },
+  {
+    "id": "005",
+    "category": "Perfumed",
+    "name": "JESSICA WEILLER",
+    "price": 787,
+    "ratings": 4,
+    "ratingsCount": 999,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/jessica-weiller_fm9jks.jpg",
+    "shipping": 49,
+    "quantity": 0
+  },
+  {
+    "id": "006",
+    "category": "Perfumed",
+    "name": "LAURA CHOUETTE ICX",
+    "price": 738,
+    "ratings": 3,
+    "ratingsCount": 9372,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/laura-chouette-Icx_iled1x.jpg",
+    "shipping": 19,
+    "quantity": 0
+  },
+  {
+    "id": "007",
+    "category": "Perfumed",
+    "name": "LAURA CHOUETTE",
+    "price": 726,
+    "ratings": 4,
+    "ratingsCount": 9870,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/laura-chouette_ox1y6a.jpg",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "008",
+    "category": "Perfumed",
+    "name": "LUCAS MENDES",
+    "price": 719,
+    "ratings": 4,
+    "ratingsCount": 9360,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/lucas-mendes_vsqlox.jpg",
+    "shipping": 50,
+    "quantity": 0
+  },
+  {
+    "id": "009",
+    "category": "Perfumed",
+    "name": "LUM CO",
+    "price": 760,
+    "ratings": 5,
+    "ratingsCount": 9976,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364687/lucky-one/lum-co_roumrj.jpg",
+    "shipping": 46,
+    "quantity": 0
+  },
+  {
+    "id": "010",
+    "category": "Perfumed",
+    "name": "SIORA",
+    "price": 737,
+    "ratings": 4,
+    "ratingsCount": 965,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364689/lucky-one/siora_ltrxeh.jpg",
+    "shipping": 36,
+    "quantity": 0
+  },
+  {
+    "id": "011",
+    "category": "Perfumed",
+    "name": "MAXIM LOZYANKO",
+    "price": 746,
+    "ratings": 5,
+    "ratingsCount": 9702,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364688/lucky-one/maxim-lozyanko_qwxp5y.jpg",
+    "shipping": 29,
+    "quantity": 0
+  },
+  {
+    "id": "012",
+    "category": "Perfumed",
+    "name": "MAXIM",
+    "price": 709,
+    "ratings": 5,
+    "ratingsCount": 9688,
+    "img": "https://res.cloudinary.com/dskmjlma4/image/upload/v1648364686/lucky-one/maxim_jmarzw.jpg",
+    "shipping": 48,
+    "quantity": 0
+  }
+]
